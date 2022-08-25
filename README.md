@@ -2,14 +2,14 @@
 Loop bot discord FRENCH
 
 Loop is a discord bot that can be used by no one for the moment.
-This is a fully French bot so if you want an English one, you won't find anything.
+This is a fully French bot so if you want an English version, you won't find anything, unless another user had made the translation of the dialogues.
 
 Vous pouvez signaler à tout moment avec ce github quelque problème que vous rencontrez avec le bot.
 Si vous rencontrez un problème avec le bot en lui-même ou que vous souhaitez suggérer un ajout ou une modification, je vous invite à aller sur le serveur discord pour nous en faire part en direct : https://discord.gg/XmAd3QNBXv
 
 Pour inviter le bot, il suffit simplement d'avoir un compte discord et de cliquer sur ce lien : https://discord.com/api/oauth2/authorize?client_id=926885827714375701&permissions=8&scope=bot
 
-ATTENTION : le bot ne pourra pas être sur plus de 100 serveurs avant le 28/11/2023 à 16:00
+ATTENTION : le bot ne pourra pas être sur plus de 100 serveurs au moins avant le 28/11/2023 à 16:00
 
 ## Informations
 
