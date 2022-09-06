@@ -21,3 +21,23 @@ Pour plus de détails sur cette librairie et comment l'installer, je vous consei
 
 Pour ceux qui le souhaitent, le code sera disponible en Open Source prochainement, pour que vous puissiez programmer vos bots.
 Bien entendu, les fonctionnalités easter-egg ou propres au bot ne seront pas disponible en Open Source.
+
+## Police de confidentialité
+
+Les développeurs du bot s'engagent à ne pas chercher ni divulguer quelque information que ce soit sur les messages anonymes envoyés via le bot.
+
+Les données des messages sont stockés sur une base de données sécurisée stockée sur l'hébergement du bot, sous forme de chiffres.
+
+À moins d'y accéder via le bot, il est impossible de récupérer les données des utilisateurs.
+
+Le bot ne possède et ne possèdera aucune fonctionnalité permettant l'accès à ces données, que ce soit par les utilisateurs ou les développeurs.
+
+Si il s'avérait qu'un développeur du bot ait divulgué une information ou ait eu accès à une information de la base de données à propos des messages anonymes, il serait la cause d'une rupture de contrat et pourra être poursuivi pénalement.
+
+Il n'y a actuellement qu'un seul développeur travaillant sur le bot. Celui-ci s'engage à respecter ces termes et conditions.
+
+## Conditions d'utilisation
+
+En utilisant les services fournis par le bot, l'utilisateur s'engage à respecter les [ToS de Discord](https://discord.com/terms), à ne déclarer, ni accuser, ni impliquer quoi que ce soit d'illégal, que cela concerne des activités illégales ou du matériel dont la détention est illégale, à ne fournir via les informations personnelles de personne, y compris lui-même.
+
+Si ces conditions ne sont pas remplies, les développeurs du bot ne seraient pas responsables de quelque manière que ce soit de l'écart de comportement de l'utilisateur.
