@@ -36,6 +36,21 @@ Si il s'avérait qu'un développeur du bot ait divulgué une information ou ait 
 
 Il n'y a actuellement qu'un seul développeur travaillant sur le bot. Celui-ci s'engage à respecter ces termes et conditions.
 
+### Collecte des données
+
+Les données que le bot collecte sont :
+
+* L'identifiant d'utilisateur, pour permettre l'automodération et la modération. Cette donnée ne sera pas visible par les autres utilisateur et ne sera envoyable à personne. Elle sera également stockée dans une base de données sécurisée à laquelle seul le bot aura accès.
+* Le contenu des messages envoyés au bot, seulement lorsqu'ils sont précédés du préfixe du bot. Cette donnée ne sera stockée que temporairement, pour permettre le bon fonctionnement des messages anonymes. __Ce qui signifie que si vous envoyez des messages au bot en privé et sans préfixe, ceux-ci ne seront jamais collectés par le bot__
+* L'es identifiants des serveurs sur lesquels il se trouve.
+* Les identifiants des propriétaires des serveurs sur lesquels il se trouve.
+* Les identifiants des salons sur lesquels les utilisateurs peuvent envoyer des messages anonymes.
+* Les identifiants des rôles autorisés à modifier les paramètre du bot, après définition de ceux-ci par un administrateur.
+
+Conformément à la politique de développement de Discord, l'utilisateur peut choisir la suppression de toutes ses données présentes sur la base de données du bot, et ce, via la commande `delete data` précédée du préfixe du bot. Cette action entraînera la suppression de l'entièreté des messages envoyés par l'utilisateur via le bot, mais également toutes les données concernant cet utilisateur dans la base de données des messages.
+
+Cependant, si l'utilisateur en question est le propriétaire d'un serveur sur lequel se trouve le bot, son id d'utilisateur ne sera pas supprimée de la base de donnée des serveurs tant que le bot sera sur le serveur en question.
+
 ## Conditions d'utilisation
 
 En utilisant les services fournis par le bot, l'utilisateur s'engage à respecter les [ToS de Discord](https://discord.com/terms), à ne déclarer, ni accuser, ni impliquer quoi que ce soit d'illégal, que cela concerne des activités illégales ou du matériel dont la détention est illégale, à ne fournir via les informations personnelles de personne, y compris lui-même.
