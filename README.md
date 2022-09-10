@@ -53,6 +53,6 @@ Cependant, si l'utilisateur en question est le propriétaire d'un serveur sur le
 
 ## Conditions d'utilisation
 
-En utilisant les services fournis par le bot, l'utilisateur s'engage à respecter les [ToS de Discord](https://discord.com/terms), à ne déclarer, ni accuser, ni impliquer quoi que ce soit d'illégal, que cela concerne des activités illégales ou du matériel dont la détention est illégale, à ne fournir via les informations personnelles de personne, y compris lui-même.
+En utilisant les services fournis par le bot, l'utilisateur s'engage à respecter les [ToS de Discord](https://discord.com/terms), à ne déclarer, ni accuser, ni impliquer quoi que ce soit d'illégal, que cela concerne des activités illégales ou du matériel dont la détention est illégale, à ne fournir via le bot les informations personnelles de personne, y compris lui-même.
 
 Si ces conditions ne sont pas remplies, les développeurs du bot ne seraient pas responsables de quelque manière que ce soit de l'écart de comportement de l'utilisateur.
