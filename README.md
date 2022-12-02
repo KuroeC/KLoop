@@ -56,3 +56,8 @@ Cependant, si l'utilisateur en question est le propriétaire d'un serveur sur le
 En utilisant les services fournis par le bot, l'utilisateur s'engage à respecter les [ToS de Discord](https://discord.com/terms), à ne déclarer, ni accuser, ni impliquer quoi que ce soit d'illégal, que cela concerne des activités illégales ou du matériel dont la détention est illégale, à ne fournir via le bot les informations personnelles de personne, y compris lui-même, et à ne diffamer qui que ce soit.
 
 Si ces conditions ne sont pas remplies, les développeurs et administrateurs du bot ne seraient pas responsables de quelque manière que ce soit de l'écart de comportement de l'utilisateur.
+
+## Nous contacter
+
+Vous pouvez nous contacter par mail [ici](loopofficielbotdiscord@gmail.com)
+Et vous pouvez nous rapporter un problème [ici](https://github.com/KuroeC/KLoop/Issues)
