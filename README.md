@@ -60,4 +60,5 @@ Si ces conditions ne sont pas remplies, les développeurs et administrateurs du 
 ## Nous contacter
 
 Vous pouvez nous contacter par mail [ici](loopofficielbotdiscord@gmail.com)
+
 Et vous pouvez nous rapporter un problème [ici](https://github.com/KuroeC/KLoop/Issues)
