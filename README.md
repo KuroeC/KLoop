@@ -49,8 +49,6 @@ Les données que le bot collecte sont :
 
 Conformément à la politique de développement de Discord, l'utilisateur peut choisir la suppression de toutes ses données présentes sur la base de données du bot, et ce, via la commande `delete data` précédée du préfixe du bot. Cette action entraînera la suppression de l'entièreté des messages envoyés par l'utilisateur via le bot, mais également toutes les données concernant cet utilisateur dans la base de données des messages.
 
-Cependant, si l'utilisateur en question est le propriétaire d'un serveur sur lequel se trouve le bot, son id d'utilisateur ne sera pas supprimée de la base de donnée des serveurs tant que le bot sera sur le serveur en question.
-
 ## Conditions d'utilisation
 
 En utilisant les services fournis par le bot, l'utilisateur s'engage à respecter les [ToS de Discord](https://discord.com/terms), à ne déclarer, ni accuser, ni impliquer quoi que ce soit d'illégal, que cela concerne des activités illégales ou du matériel dont la détention est illégale, à ne fournir via le bot les informations personnelles de personne, y compris lui-même, et à ne diffamer ni menacer, ni insulter qui que ce soit, à ne mentionner aucun contenu choquant à caractère obscène, sexuel ou hyper-violent dans quelque message que ce soit envoyé par le biais du bot.
