@@ -53,7 +53,7 @@ Cependant, si l'utilisateur en question est le propriétaire d'un serveur sur le
 
 ## Conditions d'utilisation
 
-En utilisant les services fournis par le bot, l'utilisateur s'engage à respecter les [ToS de Discord](https://discord.com/terms), à ne déclarer, ni accuser, ni impliquer quoi que ce soit d'illégal, que cela concerne des activités illégales ou du matériel dont la détention est illégale, à ne fournir via le bot les informations personnelles de personne, y compris lui-même, et à ne diffamer qui que ce soit.
+En utilisant les services fournis par le bot, l'utilisateur s'engage à respecter les [ToS de Discord](https://discord.com/terms), à ne déclarer, ni accuser, ni impliquer quoi que ce soit d'illégal, que cela concerne des activités illégales ou du matériel dont la détention est illégale, à ne fournir via le bot les informations personnelles de personne, y compris lui-même, et à ne diffamer ni menacer, ni insulter qui que ce soit, à ne mentionner aucun contenu choquant à caractère obscène, sexuel ou hyper-violent dans quelque message que ce soit envoyé par le biais du bot.
 
 Si ces conditions ne sont pas remplies, les développeurs et administrateurs du bot ne seraient pas responsables de quelque manière que ce soit de l'écart de comportement de l'utilisateur.
 
@@ -62,3 +62,29 @@ Si ces conditions ne sont pas remplies, les développeurs et administrateurs du 
 Vous pouvez nous contacter par mail [ici](loopofficielbotdiscord@gmail.com)
 
 Et vous pouvez nous rapporter un problème [ici](https://github.com/KuroeC/KLoop/Issues)
+
+# FAQ
+
+## Mon serveur a été gban, comment faire annuler le gban ?
+
+Si votre serveur a été gban, cela peut être pour les raisons suivantes :
+
+* Votre serveur ne respecte pas les [ToS de Discord](https://discord.com/terms)
+* Une majorité des membres de votre serveur vont à l'encontre des [ToS de Discord](https://discord.com/terms) ou de nos [conditions d'utilisation](https://github.com/KuroeC/KLoop#conditions-dutilisation)
+* Le propriétaire du serveur a lui-même été gban
+
+Cependant, il peut aussi s'agir d'une erreur (faute de frappe par exemple), si vous pensez que c'est le cas, vous pouvez vous rendre sur [notre serveur discord support](https://discord.gg/MTyVQPy4PE) et ouvrir un ticket.
+
+## J'ai été gban en tant qu'utilisateur, comment faire annuler le gban ?
+
+Si vous avez été gban, c'est sans doute pour les raisons suivantes :
+
+* Insultes graves via message anonyme
+* Menaces via message anonyme
+* Diffamation via message anonyme
+* Contenu illégal mentionné dans un message anonyme
+* Contenu obscène mentionné dans un message anonyme
+* Contenu hyper-violent mentionné dans un message anonyme
+* Divulgation d'informations personnelles de quelqu'un
+
+Dans le cas où vous pensez qu'il s'agirait d'une erreur, vous pouvez nous le signaler [ici](https://forms.gle/N4rWAQKiQz6jx35g8).
