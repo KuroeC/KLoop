@@ -42,7 +42,7 @@ Les données que le bot collecte sont :
 
 * L'identifiant d'utilisateur, pour permettre l'automodération et la modération. Cette donnée ne sera pas visible par les autres utilisateur et ne sera envoyable à personne. Elle sera également stockée dans une base de données sécurisée à laquelle seul le bot aura accès.
 * Le contenu des messages envoyés au bot, seulement lorsqu'ils sont précédés du préfixe du bot. Cette donnée ne sera stockée que temporairement, pour permettre le bon fonctionnement des messages anonymes. __Ce qui signifie que si vous envoyez des messages au bot en privé et sans préfixe, ceux-ci ne seront jamais collectés par le bot__
-* L'es identifiants des serveurs sur lesquels il se trouve.
+* Les identifiants des serveurs sur lesquels il se trouve.
 * Les identifiants des propriétaires des serveurs sur lesquels il se trouve.
 * Les identifiants des salons sur lesquels les utilisateurs peuvent envoyer des messages anonymes.
 * Les identifiants des rôles autorisés à modifier les paramètre du bot, après définition de ceux-ci par un administrateur.
