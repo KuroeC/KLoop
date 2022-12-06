@@ -47,6 +47,11 @@ Les données que le bot collecte sont :
 * Les identifiants des salons sur lesquels les utilisateurs peuvent envoyer des messages anonymes.
 * Les identifiants des rôles autorisés à modifier les paramètre du bot, après définition de ceux-ci par un administrateur.
 
+Il génère :
+
+* Des identifients de serveur pour que les utilisateurs puissent facilement faire envoyer des messages au bot
+* Des pseudonymes aléatoires pour les utilisateurs
+
 Conformément à la politique de développement de Discord, l'utilisateur peut choisir la suppression de toutes ses données présentes sur la base de données du bot, et ce, via la commande `delete data` précédée du préfixe du bot. Cette action entraînera la suppression de l'entièreté des messages envoyés par l'utilisateur via le bot, mais également toutes les données concernant cet utilisateur dans la base de données des messages.
 
 ## Conditions d'utilisation
@@ -86,3 +91,23 @@ Si vous avez été gban, c'est sans doute pour les raisons suivantes :
 * Divulgation d'informations personnelles de quelqu'un
 
 Dans le cas où vous pensez qu'il s'agirait d'une erreur, vous pouvez nous le signaler [ici](https://forms.gle/N4rWAQKiQz6jx35g8).
+
+## Qu'est-ce que le Loo'premium ?
+
+Le Loo'premium est une fonctionnalité premium. Pour l'instant, vous ne pouvez l'obtenir que via giveaway sur le [serveur discord officiel du bot](https://discord.gg/MTyVQPy4PE).
+
+Dans le futur, il sera également possible de l'obtenir en payant un café aux développeurs.
+
+## Quels sont les avantages du Loo'premium ?
+
+Les avantages actuels sont :
+
+* La possibilité de renommer un serveur si le propriétaire est premium
+
+Il est prévu d'y avoir plus de fonctionnalités possibles avec le premium.
+
+## Un de mes messages a été signalé, existe-t-il un risque pour mon identité ?
+
+Les modérateurs et utilisateurs utiliseront votre pseudonyme pour vous signaler, et les développeurs l'utiliseront pour vous bannir.
+
+Personne n'aura l'occasion de connaître votre identité.
