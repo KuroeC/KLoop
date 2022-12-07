@@ -52,7 +52,7 @@ Il génère :
 * Des identifients de serveur pour que les utilisateurs puissent facilement faire envoyer des messages au bot
 * Des pseudonymes aléatoires pour les utilisateurs
 
-Conformément à la politique de développement de Discord, l'utilisateur peut choisir la suppression de toutes ses données présentes sur la base de données du bot, et ce, via la commande `delete data` précédée du préfixe du bot. Cette action entraînera la suppression de l'entièreté des messages envoyés par l'utilisateur via le bot, mais également toutes les données concernant cet utilisateur dans la base de données des messages.
+Conformément à la politique de développement de Discord, l'utilisateur peut choisir la suppression de toutes ses données présentes sur la base de données du bot, et ce, via la commande `deldata` précédée du préfixe du bot. Cette action entraînera la suppression de l'entièreté des messages envoyés par l'utilisateur via le bot, mais également toutes les données concernant cet utilisateur dans la base de données des messages. L'utilisateur ne sera cependant plus en mesure d'utiliser le bot jusqu'à ce qu'il effectuel la commande `allowdata`.
 
 ## Conditions d'utilisation
 
